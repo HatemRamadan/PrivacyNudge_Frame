@@ -4,4 +4,6 @@ For research purposes (my bachelor thesis), we wanted to investigate users' feel
 
 This tool is about showing a frame all around the screen alongside normal notification in the notification tray when front camera is accessed. I differentiated between accessing the camera and processing taken photos by changing the frame color.  
 
-![](PrivacyNudge_Frame.jpeg) ![](frame2.jpeg)
+## Screenshots
+<img src="PrivacyNudge_Frame.jpeg" width="350" height="600">
+<img src="frame2.jpeg" width="350" height="600">
